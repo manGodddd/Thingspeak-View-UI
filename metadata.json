@@ -1,0 +1,5 @@
+{
+  "name": "NovaSpeak Analytics",
+  "description": "A next-generation, AI-enhanced dashboard for visualizing ThingSpeak sensor data with customizable charts and intelligent insights.",
+  "requestFramePermissions": []
+}
